@@ -18,11 +18,9 @@ Products in our everyday lives we often use only once. After these items are thr
  - Just like paper, recycling cardboard saves space in landfills
  - One ton of recycled cardboard can save 17 trees, 7000 gallons of water, and 1500 pounds of carbon dioxide from emitting into the environment
 
+_**This page is a work in progress. Come back later to see what's changed!**_
+
 ## Sources
 [Why Is It Important to Recycle?](https://www.greenmatters.com/p/why-is-it-important-to-recycle)
 
 [How Long Does it Take for Plastics to Break Down?](https://alansfactoryoutlet.com/how-long-does-it-take-plastics-to-break-down/)
-
- 
-
-## _**This page is a work in progress. Come back later to see what's changed!**_
