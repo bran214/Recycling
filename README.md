@@ -4,6 +4,7 @@
 
 Products in our everyday lives we often use only once. After these items are thrown away, they contribute to the growing waste problem, and many of them aren't able to break down into simpler components in a reasonable amount of time. To fight this issue, recycling can put old material into use again.
 
+<br/><br/>
 ### Plastics
  - They rarely break down organically because they aren't biodegradable
  - It can take up to 1000 years for plastic to break down naturally!
