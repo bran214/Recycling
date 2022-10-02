@@ -36,7 +36,7 @@ _**This page is a work in progress. Come back later to see what's changed!**_
 ## Sources
 [Why Is It Important to Recycle?](https://www.greenmatters.com/p/why-is-it-important-to-recycle)  
 [How Long Does it Take for Plastics to Break Down?](https://alansfactoryoutlet.com/how-long-does-it-take-plastics-to-break-down/)  
-[Earth Recycling Image](https://cleandotwaste.co.za/wp-content/uploads/2018/07/RECYCLING-1.jpg)
+[Earth Recycling Image Source](https://cleandotwaste.co.za/wp-content/uploads/2018/07/RECYCLING-1.jpg)
 
 ## Share this page!
 [bran214.github.io/Recycling]()
