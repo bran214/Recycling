@@ -8,6 +8,7 @@ Products in our everyday lives we often use only once. After these items are thr
  - They rarely break down organically because they aren't biodegradable
  - It can take up to 1000 years for plastic to break down naturally!
  - A better alternative is reusing the material through recycling
+ - A great video on plastic pollution: [Plastic Pollution: How Humans are Turning the World into Plastic](https://www.youtube.com/watch?v=RS7IzU2VJIQ&list=PLFs4vir_WsTyXrrpFstD64Qj95vpy-yo1&index=13)
 
 ### Paper
  - Paper _can_ be recycled, so recycling it saves space in landfills for things which can't be
