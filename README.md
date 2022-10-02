@@ -27,6 +27,8 @@ Products in our everyday lives we often use only once. After these items are thr
  - One ton of recycled cardboard can save 17 trees, 7000 gallons of water, and 1500 pounds of carbon dioxide from emitting into the environment
 
 <br/><br/>
+_Interested in joining? Contact me [here](mailto:concern-onshore-0t@icloud.com)_
+<br/><br/>
 _**This page is a work in progress. Come back later to see what's changed!**_
 
 ## Sources
