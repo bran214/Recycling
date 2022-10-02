@@ -36,4 +36,5 @@ _**This page is a work in progress. Come back later to see what's changed!**_
 
 ## Share this page!
 [bran214.github.io/Recycling]()
+
 ![alt text](https://github.com/bran214/Recycling/raw/main/qrcode.png "qrcode")  
