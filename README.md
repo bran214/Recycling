@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bran214/Recycling/raw/main/RECYCLING-1.jpg" alt="Earth Recycling Image"/>
+  <img src="https://cleandotwaste.co.za/wp-content/uploads/2018/07/RECYCLING-1.jpg" alt="Earth Recycling Image"/>
 </p>
 
 ## Why Is It Important?
