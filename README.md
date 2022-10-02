@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://cleandotwaste.co.za/wp-content/uploads/2018/07/RECYCLING-1.jpg" alt="Earth Recycling Image"/>
+  <img src="https://cleandotwaste.co.za/wp-content/uploads/2018/07/RECYCLING-1-1024x766.jpg" alt="Earth Recycling Image"/>
 </p>
+[Image Source](https://cleandotwaste.co.za/recycling-benefits/)
 
 ## Why Is It Important?
 
