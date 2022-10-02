@@ -40,5 +40,5 @@ _**This page is a work in progress. Come back later to see what's changed!**_
 ![alt text](https://github.com/bran214/Recycling/raw/main/qrcode.png "qrcode")
 
 <p align="center">
-  <img src="https://github.com/bran214/Recycling/blob/master/qrcode.png?raw=true" alt="Recycling QR"/>
+  <img src="https://github.com/bran214/Recycling/raw/main/qrcode.png" alt="Recycling QR"/>
 </p>
