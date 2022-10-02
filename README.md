@@ -9,7 +9,7 @@ Products in our everyday lives we often use only once. After these items are thr
  - It can take up to 1000 years for plastic to break down naturally!
  - Instead, if they end up in the ocean, they can break down into microplastics which make their way up the food chain and into our meals.
  - A better alternative is reusing the material through recycling
-#### Further Videos on Plastic
+ - **Further Videos on Plastic**
  - [Plastic Pollution: How Humans are Turning the World into Plastic](https://www.youtube.com/watch?v=RS7IzU2VJIQ&list=PLFs4vir_WsTyXrrpFstD64Qj95vpy-yo1&index=13)
  - [What really happens to the plastic you throw away - Emma Bryce](https://www.youtube.com/watch?v=_6xlNyWPpB8)
 
