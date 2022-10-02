@@ -1,4 +1,6 @@
-# Recycling
+<p align="center">
+  <img src="https://github.com/bran214/Recycling/raw/main/RECYCLING-1.jpg" alt="Earth Recycling Image"/>
+</p>
 
 ## Why Is It Important?
 
